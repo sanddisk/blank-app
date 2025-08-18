@@ -1,1 +1,8 @@
 streamlit
+requests
+PyPDF2
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+python-dotenv
